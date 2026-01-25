@@ -10,15 +10,15 @@ This project provides a comprehensive analysis of the **Olist E-commerce dataset
 - 
 ##  Key Business Metrics
 After cleaning and processing over 100k orders, the following KPIs were identified:
-- **AOV (Average Order Value):** $[137.79]
-- **ARPU / ARPPU:** $[141.48]
+- **AOV (Average Order Value):** $137.79
+- **ARPU / ARPPU:** $141.48
 
 ##  Top 5 Product Categories
-1. **[health_beauty]** — $[1258660]
-2. **[watches_gifts]** — $[1204990]
-3. **[bed_bath_table]** — $[1036940]
-4. **[sports_leisure]** — $[988026]
-5. **[computers_accessories]** — $[911940]
+1. **[health_beauty]** — $1258660
+2. **[watches_gifts]** — $1204990
+3. **[bed_bath_table]** — $1036940
+4. **[sports_leisure]** — $988026
+5. **[computers_accessories]** — $911940
 
 
 
