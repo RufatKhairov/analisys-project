@@ -1,2 +1,0 @@
-metrics.sql
-share.sql
