@@ -1,6 +1,6 @@
-# User Metrics Analysis Project
+# Sales Analysis Project
 
-This project focuses on analyzing key user and financial metrics, completed as part of a course or practical training.  
+This project focuses on analyzing key user and financial metrics, completed as practical training.  
 The main goal is to calculate and interpret ARPU, ARPPU, AOV, and other metrics to evaluate user behavior and product revenue.
 
 ## Objectives
@@ -20,9 +20,9 @@ The main goal is to calculate and interpret ARPU, ARPPU, AOV, and other metrics 
 | `report.md` | Summary report with findings and recommendations |
 
 ## Sample Results
-- ARPU: 372.57 
-- ARPPU: 393.10
-- AOV: 361.77	
+- ARPU: 
+- ARPPU: 
+- AOV: 
 
 ## Data Source
-Data comes from course projects on Redash dashboards.
+Data comes from Kaggle.com.
