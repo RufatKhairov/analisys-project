@@ -33,9 +33,9 @@ After cleaning and processing over 100k orders, the following KPIs were identifi
 | `README.md` | Project summary, insights, and methodology. |
 
 ##  Key Insights
-- The **Average Order Value** suggests a middle-market/premium customer base.
-- **ARPU equals ARPPU** because the dataset consists only of customers who completed at least one transaction.
-- The most profitable categories are related to **Health & Beauty**, showing strong demand in lifestyle sectors.
+- **Customer Loyalty:** The ARPU ($141.48) is higher than the AOV ($137.79), indicating that a portion of the customer base returns for repeat purchases or buys multiple items per order.
+- **Spending Power:** An AOV of nearly $138 suggests a middle-to-high ticket marketplace, as customers are comfortable making significant online purchases.
+- **Lifestyle Dominance:** The top two categories (**Health & Beauty** and **Watches & Gifts**) account for over $2.4M in revenue, showing that Olist is a primary destination for lifestyle and gift shopping in Brazil.
 
 ## Data Source
 Data comes from Kaggle.com.
