@@ -1,28 +1,41 @@
-# Sales Analysis Project
+# Olist E-commerce Business Analysis 🇧🇷
 
-This project focuses on analyzing key user and financial metrics, completed as practical training.  
-The main goal is to calculate and interpret ARPU, ARPPU, AOV, and other metrics to evaluate user behavior and product revenue.
+##  Project Overview
+This project provides a comprehensive analysis of the **Olist E-commerce dataset**, focusing on key business metrics (KPIs) to evaluate marketplace health and product performance.
 
-## Objectives
-- Calculate core user metrics: ARPU (Average Revenue Per User), ARPPU (Average Revenue Per Paying User), AOV (Average Order Value)
-- Analyze user segments based on activity and payments
-- Prepare insights and recommendations to improve revenue and user retention
+## 🛠️ Tech Stack
+- **Database:** PostgreSQL
+- **Tool:** DBeaver
+- **Languages:** SQL (PostgreSQL dialect)
+- 
+## 📊 Key Business Metrics
+After cleaning and processing over 100k orders, the following KPIs were identified:
+- **AOV (Average Order Value):** $[137.79]
+- **ARPU / ARPPU:** $[141.48]
 
-## Tools
-- SQL (Redash) for data querying and processing
+## 🏆 Top 5 Product Categories
+1. **[health_beauty]** — $[1258660]
+2. **[watches_gifts]** — $[1204990]
+3. **[bed_bath_table]** — $[1036940]
+4. **[sports_leisure]** — $[988026]
+5. **[computers_accessories]** — $[911940]
+
+
 
 ## Repository Contents
 | File / Folder | Description |
 |---------------|------------|
-| `sql/metrics.sql` | Calculation of ARPU, ARPPU, AOV |
-| `sql/new-users-revenue.sql` | Calculation of new users revenue share |
-| `images/` | Screenshots of dashboards and charts|
-| `report.md` | Summary report with findings and recommendations |
+| `scripts/01_data_cleaning.sql` | Data type casting, NULL handling, and Master Table creation. |
+| `scripts/02_metrics_calc.sql` |Logic for AOV, ARPU. |
+| `scripts/03_product_analysis.sql` | Deep dive into category performance.|
+| `visuals/` | Dashboard screenshots and charts. |
+| `data/` | Link to the original Kaggle dataset and data dictionary. |
+| `README.md` | Project summary, insights, and methodology. |
 
-## Sample Results
-- ARPU: 
-- ARPPU: 
-- AOV: 
+## 💡 Key Insights
+- The **Average Order Value** suggests a [middle-market/premium] customer base.
+- **ARPU equals ARPPU** because the dataset consists only of customers who completed at least one transaction.
+- The most profitable categories are related to **[Health & Beauty]**, showing strong demand in lifestyle sectors.
 
 ## Data Source
 Data comes from Kaggle.com.
