@@ -14,11 +14,11 @@ After cleaning and processing over 100k orders, the following KPIs were identifi
 - **ARPU / ARPPU:** $141.48
 
 ##  Top 5 Product Categories
-1. **Health beauty** — $1,258,660
-2. **Watches gifts** — $1,204,990
-3. **Bed bath table** — $1,036,940
-4. **Sports leisure** — $988,026
-5. **Сomputers accessories** — $911,940
+1. **Health & beauty** — $1.258.660
+2. **Watches & gifts** — $1.204.990
+3. **Bed bath table** — $1.036.940
+4. **Sports leisure** — $988.026
+5. **Сomputers accessories** — $911.940
 
 
 
