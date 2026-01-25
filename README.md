@@ -7,18 +7,18 @@ This project provides a comprehensive analysis of the **Olist E-commerce dataset
 - **Database:** PostgreSQL
 - **Tool:** DBeaver
 - **Languages:** SQL (PostgreSQL dialect)
-- 
+  
 ##  Key Business Metrics
 After cleaning and processing over 100k orders, the following KPIs were identified:
 - **AOV (Average Order Value):** $137.79
 - **ARPU / ARPPU:** $141.48
 
 ##  Top 5 Product Categories
-1. **[health_beauty]** — $1258660
-2. **[watches_gifts]** — $1204990
-3. **[bed_bath_table]** — $1036940
-4. **[sports_leisure]** — $988026
-5. **[computers_accessories]** — $911940
+1. **Health beauty** — $1,258,660
+2. **Watches gifts** — $1,204,990
+3. **Bed bath table** — $1,036,940
+4. **Sports leisure** — $988,026
+5. **Сomputers accessories** — $911,940
 
 
 
@@ -33,9 +33,9 @@ After cleaning and processing over 100k orders, the following KPIs were identifi
 | `README.md` | Project summary, insights, and methodology. |
 
 ##  Key Insights
-- The **Average Order Value** suggests a [middle-market/premium] customer base.
+- The **Average Order Value** suggests a middle-market/premium customer base.
 - **ARPU equals ARPPU** because the dataset consists only of customers who completed at least one transaction.
-- The most profitable categories are related to **[Health & Beauty]**, showing strong demand in lifestyle sectors.
+- The most profitable categories are related to **Health & Beauty**, showing strong demand in lifestyle sectors.
 
 ## Data Source
 Data comes from Kaggle.com.
